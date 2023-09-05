@@ -1,0 +1,3 @@
+pygame
+playsound
+pywin32
